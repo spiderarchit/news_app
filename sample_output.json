@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Australian woman's record-breaking run from continent's 'tip to toe'",
+    "description": "Erchana Murray-Bartlett has run a marathon a day for 150 days, covering 6,300km (3,900 miles).",
+    "url": "http://www.bbc.co.uk/news/world-australia-64286469",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B522/production/_128307364_d86f62afb20c2d9b7302fdd786f60f638e32f2a50_0_6000_40001000x667.jpg",
+    "publishedAt": "2023-01-16T10:22:28.2966847Z",
+    "content": "Five months after setting out from the tip of Australia, marathon runner Erchana Murray-Bartlett has reached the country's southern edge.\r\nThe 32-year-old on Monday finished her 6,300km (3,900 miles)… [+2427 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Christine Lambrecht: German defence minister resigns after blunders",
+    "description": "Christine Lambrecht's exit comes amid pressure to allow the delivery of German-built tanks to Ukraine.",
+    "url": "http://www.bbc.co.uk/news/world-europe-64288267",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/583E/production/_128309522_mediaitem128309518.jpg",
+    "publishedAt": "2023-01-16T10:22:24.4833863Z",
+    "content": "Germany's Defence Minister Christine Lambrecht has resigned following a series of blunders and PR disasters. \r\nIt comes as Berlin comes under rising pressure to allow the delivery of German-built bat… [+1639 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Martin Luther King: Surprising facts about civil rights icon",
+    "description": "Beyond his leadership of the civil rights struggle, there are many surprising details about his legacy.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64244643",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15C13/production/_128270198_mlk.jpg",
+    "publishedAt": "2023-01-16T09:52:23.0769404Z",
+    "content": "As America pauses to honour Dr Martin Luther King, Jr's legacy, experts say his fight against poverty and inequality is still just as relevant today as it was during the US civil rights movement. \r\nH… [+5390 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The Last of Us: TV series of hit game praised by critics",
+    "description": "It has been described as \"comfortably the best adaptation of a video game ever made\" that has been able to \"break the curse\" on gaming-TV crossovers.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-64261582",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A0E4/production/_128288114_fl_07_the_last_of_us_s01.jpg",
+    "publishedAt": "2023-01-16T09:37:18.8111987Z",
+    "content": "Critics have universally praised the TV adaptation of hit video game The Last of Us as it's made available in the UK.\r\nThe series is described as \"comfortably the best adaptation of a video game ever… [+4022 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Italy's most-wanted mafia boss arrested in Sicily",
+    "description": "Matteo Messina Denaro, Italy's most-wanted mafia boss, is arrested in Sicily after 30 years on the run.",
+    "url": "http://www.bbc.co.uk/news/world-europe-64288928",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2023-01-16T09:07:21.4363724Z",
+    "content": "Italy's most-wanted mafia boss Matteo Messina Denaro has been arrested in Sicily after 30 years on the run.\r\nMessina Denaro was reportedly detained in a private clinic in Sicily's capital Palermo. He… [+423 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC Sport",
+    "title": "Bengals, Giants & Bills hold on for play-off wins",
+    "description": "Sam Hubbard produces the longest fumble return in play-off history to hand the Cincinnati Bengals a 24-17 win at home to the Baltimore Ravens.",
+    "url": "http://www.bbc.co.uk/sport/american-football/64285551",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/33D6/production/_128307231_bbc-sport-index-imagery-3-split-images-gradient-8bca0d5f-d630-4391-95ed-63d4a2edeea7.png",
+    "publishedAt": "2023-01-16T07:52:21.4529649Z",
+    "content": "Sam Hubbard (left) ran the ball for 98 yards after a fumble by Tyler Huntley (number 2) fell straight into his arms\r\n<table><tr><th>NFL play-offs on the BBC: Wildcard round</th></tr>\r\n<tr><td>Dates: … [+4478 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Andrew Tate: Romanian police widen probe into controversial influencer",
+    "description": "The British-American influencer is in custody over allegations of human trafficking and rape.",
+    "url": "http://www.bbc.co.uk/news/world-europe-64285341",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EFD2/production/_128249316_5c3b04f8a957758dc3d36191506e4072e23272dd0_0_4372_29912000x1368.jpg",
+    "publishedAt": "2023-01-16T06:22:21.733894Z",
+    "content": "Romanian police are expanding their investigation into former kickboxing champion Andrew Tate, seizing a fleet of luxury cars from his Bucharest compound over the weekend, and raiding seven more prop… [+6449 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC Sport",
+    "title": "Australian Open: Draper loses first set to Nadal - radio & text",
+    "description": "Follow live coverage as Britain's Jack Draper takes on defending champion Rafael Nadal in the Australian Open first round.",
+    "url": "http://www.bbc.co.uk/sport/live/tennis/62997932",
+    "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+    "publishedAt": "2023-01-16T05:07:26.8280668Z",
+    "content": "When you're a player of Rafa Nadal's stature your matches usually get scheduled as you wish.\r\nNadal likes playing in the heat, so the balls bounce higher and allowing to use his weapons to better eff… [+555 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Mursal Nabizada: Gunmen kill former Afghan MP at home in Kabul",
+    "description": "Ms Nabizada was an MP until the government was overthrown by the Taliban in August 2021.",
+    "url": "http://www.bbc.co.uk/news/world-asia-64285789",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15F04/production/_128306898_gettyimages-1246248641-1.jpg",
+    "publishedAt": "2023-01-16T03:07:24.6089534Z",
+    "content": "A former Afghan MP and her bodyguard have been shot dead at her home in the capital Kabul, Afghan police have said.\r\nMursal Nabizada, 32, was one of the few female MPs who stayed in Kabul after the T… [+1696 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nepal mourns victims of worst air disaster in decades",
+    "description": "At least 68 people died when a Yeti airlines flight crashed on its approach to the tourist town Pokhara.",
+    "url": "http://www.bbc.co.uk/news/world-asia-64284366",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C896/production/_128305315_a7d245934c3c22dd44012ad4b2d2e200b8e695b10_148_2948_16591000x563-1.jpg",
+    "publishedAt": "2023-01-15T17:52:22.4991584Z",
+    "content": "Media caption, Video appears to show plane moments before Nepal crash\r\nNepalis are observing a day of mourning for victims of the country's worst air disaster for some three decades.\r\nAt least 68 peo… [+3029 chars]"
+    }
+    ]
+}
